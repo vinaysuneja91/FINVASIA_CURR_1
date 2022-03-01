@@ -4,3 +4,4 @@ input/
 output/
 api_key
 config.py
+gstocks-api.json
